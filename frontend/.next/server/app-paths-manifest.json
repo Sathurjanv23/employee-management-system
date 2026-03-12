@@ -1,0 +1,7 @@
+{
+  "/register/page": "app/register/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/users/page": "app/users/page.js",
+  "/profile/page": "app/profile/page.js"
+}

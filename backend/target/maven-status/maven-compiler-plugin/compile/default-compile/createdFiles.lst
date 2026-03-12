@@ -1,0 +1,16 @@
+com\example\backend\security\JwtUtil.class
+com\example\backend\dto\RegisterRequest.class
+com\example\backend\controller\UserController.class
+com\example\backend\dto\LoginRequest.class
+com\example\backend\controller\AuthController.class
+com\example\backend\BackendApplication.class
+com\example\backend\config\WebConfig.class
+com\example\backend\service\AuthService.class
+com\example\backend\dto\ChangePasswordRequest.class
+com\example\backend\exception\GlobalExceptionHandler.class
+com\example\backend\model\User.class
+com\example\backend\dto\ProfileUpdateRequest.class
+com\example\backend\dto\ForgotPasswordRequest.class
+com\example\backend\repository\UserRepository.class
+com\example\backend\security\JwtAuthFilter.class
+com\example\backend\service\UserService.class
